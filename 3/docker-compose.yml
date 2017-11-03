@@ -1,0 +1,9 @@
+version: '2'
+
+services:
+    tensorflow:
+       image: tensorflow/tensorflow
+       ports:
+         - 8888:8888
+       volumes:
+         - ./script:/notebooks
