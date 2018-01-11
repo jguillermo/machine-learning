@@ -4,6 +4,7 @@ curso/script/.cache/
 curso/script/.conda/
 curso/script/.ipython/
 curso/script/.config
+curso/script/.jupyter/
 
 curso/script/**/.ipynb_checkpoints
 curso/script/Clase1/clase/__pycache__/
