@@ -2,7 +2,7 @@ version: '2'
 
 services:
     jupyter:
-       image: jguillermo/machine
+       image: jguillermo/machine-learning
        ports:
          - 8888:8888
        volumes:
